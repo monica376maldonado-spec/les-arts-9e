@@ -1,0 +1,8 @@
+{
+  "name": "Remix Atelier Français 9e · Art et Bande Dessinée",
+  "description": "Plateforme interactive de préparation à l\u0027examen de français pour collégiens de 9e année : compréhension écrite, compréhension orale, production écrite, grammaire et ressources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
